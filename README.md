@@ -2,4 +2,4 @@
 
 This code is the supplementary material for the paper **KPC: Learning-Based Model Predictive Control with Deterministic Guarantees** by Emilio T. Maddalena, Paul Scharnhorst, Yuning Jiang and Colin N. Jones.
 
-![alt text](https://github.com/emilioMaddalena/KPC/blob/master/pred.pdf)
+![alt text](https://github.com/emilioMaddalena/KPC/blob/master/pred.png)
