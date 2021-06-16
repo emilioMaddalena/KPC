@@ -1,6 +1,6 @@
-# KPC
+# KPC :bulb:
 
-This code is the supplementary material for the paper **KPC: Learning-Based Model Predictive Control with Deterministic Guarantees** by Emilio T. Maddalena, Paul Scharnhorst, Yuning Jiang and Colin N. Jones.
+This code is the supplementary material for the paper
 
 ```yaml
 @inproceedings{maddalena2021kpc,
@@ -12,6 +12,8 @@ This code is the supplementary material for the paper **KPC: Learning-Based Mode
   organization={PMLR}
 }
 ```
+
+written by Emilio T. Maddalena, Paul Scharnhorst, Yuning Jiang and Colin N. Jones.
 
 ## Dependencies  :building_construction:
 
