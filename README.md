@@ -1,4 +1,4 @@
-# KPC :bulb:
+# KPC :mag:
 
 This code is the supplementary material for the paper
 
