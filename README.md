@@ -1,4 +1,4 @@
-# KPC ## :mag:
+# KPC 
 
 This code is the supplementary material for the paper
 
