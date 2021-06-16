@@ -2,7 +2,7 @@
 
 This code is the supplementary material for the paper
 
-```yaml
+```
 @inproceedings{maddalena2021kpc,
   title={KPC: Learning-based model predictive control with deterministic guarantees},
   author={Maddalena, Emilio T and Scharnhorst, Paul and Jiang, Yuning and Jones, Colin N},
