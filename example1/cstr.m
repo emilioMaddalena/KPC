@@ -1,4 +1,4 @@
-function dxdt = CSTR_ODE(t,x,uex)
+function dxdt = cstr(t,x,uex)
 
   global Tsamp
   

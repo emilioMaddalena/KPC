@@ -7,7 +7,7 @@
 % Example 1
 
 %% System definition
-%  The dynamics are given in CSTR_ODE.m 
+%  The dynamics are given in cstr.m 
 
 clear all; clc
 close all
@@ -201,7 +201,7 @@ for t = 1:sim.Ts
     sim.u(:,t) = sol.value(U(:,1)); 
 
     % simulate the continuous-time system (ZOH control)
-    [time,x] = ode45(@(time,x) CSTR_ODE(time,x,sim.u(:,t)), [0 Tsamp], sim.x(:,t));
+    [time,x] = ode45(@(time,x) cstr(time,x,sim.u(:,t)), [0 Tsamp], sim.x(:,t));
     sim.x(:,t+1) = [x(end,1); x(end,2)];
     
     % collect all OL predictions
