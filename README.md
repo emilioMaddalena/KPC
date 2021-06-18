@@ -13,7 +13,9 @@ This code is the supplementary material for the paper
 }
 ```
 
-written by Emilio T. Maddalena, Paul Scharnhorst, Yuning Jiang and Colin N. Jones.
+## Description :books:
+
+We make use of deterministic, finite-sample, error bounds for kernel models to design robust MPC controllers. Non-parametric kernel machines are used to learn the dynamics `f(x,u)` of discrete-time dynamical systems. Thanks to the bounds, we can build hyper-rectangles aroung the nominal predictions that are guaranteed to contain the ground-truth states. 
 
 ## Dependencies  :building_construction:
 
